@@ -1,4 +1,2 @@
 "# git-practice" 
-# hi
-
 # hello
